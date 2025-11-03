@@ -17,9 +17,7 @@ const URLS_TO_CACHE = [
 } */
 
 self.addEventListener("install", e => {
-	console.log("Installed")
 });
 
 self.addEventListener("fetch", e => {
-	console.log("Fetched")
 });
