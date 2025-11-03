@@ -1,6 +1,6 @@
 {
-  "name": "Nome della tua PWA",
-  "short_name": "PWA Demo",
+  "name": "PWA Template",
+  "short_name": "PWA Template",
   "description": "Una Progressive Web App di esempio",
   "start_url": "/index.html",
   "scope": "/",
